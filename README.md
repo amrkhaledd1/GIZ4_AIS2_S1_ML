@@ -1,6 +1,6 @@
 # GIZ4_AIS2_S1_ML
 Machine Learning - DEPI 
-# Amit Repository
+# GIZ4_AIS2_S1_ML 
 ## Project Overview
 This repository is designed for Python projects related to Machine Learning.
 ## Folder Structure
